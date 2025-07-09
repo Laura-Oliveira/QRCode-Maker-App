@@ -55,8 +55,19 @@ Built with **Kotlin**, **MVVM architecture**, **LiveData** and **Material Design
 
 ---
 
-## ✅ **Status**
-Completed ✔️
+## 💻 **Tools Used**
+- **Android Studio Lady Bugy 2024.2.1 Patch 2**
+- **Git / GitHub** – version control and collaboration
+- Android smartphone or emulator for testing
+
+---
+
+## ⏱ **Agile Methodology**
+- **Kanban** for task tracking and delivery
+
+---
+
+## ✅ Status: Completed ✔️
 
 ---
 
