@@ -67,7 +67,7 @@ Built with **Kotlin**, **MVVM architecture**, **LiveData** and **Material Design
 
 The QRCode Maker App was built not just as a utility, but to **demonstrate real-world Android skills** aligned with what European tech teams value most:
 
-- ✅ **MVVM & Clean Architecture**: maintainable, testable and scalable structure  
+- ✅ **MVVM Architecture**: maintainable, testable and scalable structure  
 - 📦 **Modular design**: easily extendable to support new QR formats or features  
 - ⚡ **Reactive UI** with LiveData & Data Binding: smooth user interactions  
 - 🎨 **Material Design interface**: consistent, native look and feel  
@@ -97,3 +97,14 @@ By combining **modern Kotlin best practices**, solid architecture and **UX-focus
   <img src="./img/qr-code.png" width="250" height="500"/>
   <img src="./img/michin_logo.jpeg" width="250" height="500"/>
 </p>
+
+---
+
+## 💡 Do you want to build something together?
+📩 Message me or 👉 [**Connect on LinkedIn**](https://www.linkedin.com/in/laura-oliveira-mobile/)
+
+📩 laura.oliveira.tech@gmail.com
+
+Let’s create modern, robust and elegant Android apps that stand out in the market.
+
+---
