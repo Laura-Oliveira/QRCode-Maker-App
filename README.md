@@ -100,7 +100,7 @@ By combining **modern Kotlin best practices**, solid architecture and **UX-focus
 
 ---
 
-## 💡 Do you want to build something together?
+## 💡 Interested in building your own app?
 📩 Message me or 👉 [**Connect on LinkedIn**](https://www.linkedin.com/in/laura-oliveira-mobile/)
 
 📩 laura.oliveira.tech@gmail.com
