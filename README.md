@@ -14,6 +14,7 @@
   
 [![Last Commit](https://img.shields.io/github/last-commit/Laura-Oliveira/BBC-News/main)](https://github.com/Laura-Oliveira/BBC-News/commits/main)
 [![Issues](https://img.shields.io/github/issues/Laura-Oliveira/BBC-News)](https://github.com/Laura-Oliveira/BBC-News/issues)
+
 [![Stars](https://img.shields.io/github/stars/Laura-Oliveira/BBC-News?style=social)](https://github.com/Laura-Oliveira/BBC-News/stargazers)
 [![Forks](https://img.shields.io/github/forks/Laura-Oliveira/BBC-News?style=social)](https://github.com/Laura-Oliveira/BBC-News/fork)
 
