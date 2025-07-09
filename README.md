@@ -1,14 +1,25 @@
 # 📱 QRCode Maker App
 
-[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Laura-Oliveira/QRCode-Maker/actions)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Language](https://img.shields.io/badge/language-Kotlin-orange.svg)](https://kotlinlang.org/)
+<div align="center">
+  
+[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Laura-Oliveira/BBC-News/actions)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Android](https://img.shields.io/badge/Android-OS-green?style=plastic&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-1.7.0-purple?style=plastic&logo=kotlin)
+![License](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)
 
-[![Last Commit](https://img.shields.io/github/last-commit/Laura-Oliveira/QRCode-Maker/main)](https://github.com/Laura-Oliveira/QRCode-Maker/commits/main)
-[![Issues](https://img.shields.io/github/issues/Laura-Oliveira/QRCode-Maker)](https://github.com/Laura-Oliveira/QRCode-Maker/issues)
+</div>
 
-[![Stars](https://img.shields.io/github/stars/Laura-Oliveira/QRCode-Maker?style=social)](https://github.com/Laura-Oliveira/QRCode-Maker/stargazers)
-[![Forks](https://img.shields.io/github/forks/Laura-Oliveira/QRCode-Maker?style=social)](https://github.com/Laura-Oliveira/QRCode-Maker/fork)
+<div align="center">
+  
+[![Last Commit](https://img.shields.io/github/last-commit/Laura-Oliveira/BBC-News/main)](https://github.com/Laura-Oliveira/BBC-News/commits/main)
+[![Issues](https://img.shields.io/github/issues/Laura-Oliveira/BBC-News)](https://github.com/Laura-Oliveira/BBC-News/issues)
+[![Stars](https://img.shields.io/github/stars/Laura-Oliveira/BBC-News?style=social)](https://github.com/Laura-Oliveira/BBC-News/stargazers)
+[![Forks](https://img.shields.io/github/forks/Laura-Oliveira/BBC-News?style=social)](https://github.com/Laura-Oliveira/BBC-News/fork)
+
+</div>
+
+---
 
 A modern Android app to **quickly create, save and share QR codes** from any link.  
 Built with **Kotlin**, **MVVM architecture**, **LiveData** and **Material Design**, focusing on clean code, scalability and great user experience.
