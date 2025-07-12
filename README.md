@@ -12,11 +12,11 @@
 
 <div align="center">
   
-[![Last Commit](https://img.shields.io/github/last-commit/Laura-Oliveira/BBC-News/main)](https://github.com/Laura-Oliveira/BBC-News/commits/main)
-[![Issues](https://img.shields.io/github/issues/Laura-Oliveira/BBC-News)](https://github.com/Laura-Oliveira/BBC-News/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Laura-Oliveira/QR-Code-Maker-App/main)](https://github.com/Laura-Oliveira/QR-Code-Maker-App/commits/main)
+[![Issues](https://img.shields.io/github/issues/Laura-Oliveira/QR-Code-Maker-App)](https://github.com/Laura-Oliveira/QR-Code-Maker-App/issues)
 
-[![Stars](https://img.shields.io/github/stars/Laura-Oliveira/BBC-News?style=social)](https://github.com/Laura-Oliveira/BBC-News/stargazers)
-[![Forks](https://img.shields.io/github/forks/Laura-Oliveira/BBC-News?style=social)](https://github.com/Laura-Oliveira/BBC-News/fork)
+[![Stars](https://img.shields.io/github/stars/Laura-Oliveira/QR-Code-Maker-App?style=social)](https://github.com/Laura-Oliveira/QR-Code-Maker-App/stargazers)
+[![Forks](https://img.shields.io/github/forks/Laura-Oliveira/QR-Code-Maker-App?style=social)](https://github.com/Laura-Oliveira/QR-Code-Maker-App/fork)
 
 </div>
 
