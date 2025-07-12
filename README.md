@@ -12,11 +12,11 @@
 
 <div align="center">
   
-[![Last Commit](https://img.shields.io/github/last-commit/Laura-Oliveira/QR-Code-Maker-App/main)](https://github.com/Laura-Oliveira/QR-Code-Maker-App/commits/main)
-[![Issues](https://img.shields.io/github/issues/Laura-Oliveira/QR-Code-Maker-App)](https://github.com/Laura-Oliveira/QR-Code-Maker-App/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Laura-Oliveira/QRCode-Maker-App/main)](https://github.com/Laura-Oliveira/QRCode-Maker-App/commits/main)
+[![Issues](https://img.shields.io/github/issues/Laura-Oliveira/QRCode-Maker-App)](https://github.com/Laura-Oliveira/QRCode-Maker-App/issues)
 
-[![Stars](https://img.shields.io/github/stars/Laura-Oliveira/QR-Code-Maker-App?style=social)](https://github.com/Laura-Oliveira/QR-Code-Maker-App/stargazers)
-[![Forks](https://img.shields.io/github/forks/Laura-Oliveira/QR-Code-Maker-App?style=social)](https://github.com/Laura-Oliveira/QR-Code-Maker-App/fork)
+[![Stars](https://img.shields.io/github/stars/Laura-Oliveira/QRCode-Maker-App?style=social)](https://github.com/Laura-Oliveira/QRCode-Maker-App/stargazers)
+[![Forks](https://img.shields.io/github/forks/Laura-Oliveira/QRCode-Maker-App?style=social)](https://github.com/Laura-Oliveira/QRCode-Maker-App/fork)
 
 </div>
 
