@@ -108,3 +108,5 @@ By combining **modern Kotlin best practices**, solid architecture and **UX-focus
 Let’s create modern, robust and elegant Android apps that stand out in the market.
 
 ---
+
+> ⭐ *Thank you for visiting! Let’s build something impactful together!*
